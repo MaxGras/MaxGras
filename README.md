@@ -1,4 +1,4 @@
-<img src="./img_3.png" style="width: 100%"  height='120'/>
+<img src="./img_3.png" style="width: 100%"  height='90'/>
 
 <h1 align="center">Hey, I'm <a href="https://github.com/MaxGras">MaxGras (Maxim)</a> 👨‍💻</h1>
 
