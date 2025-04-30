@@ -35,7 +35,7 @@
   <br />
 
   <!-- Row 2: 6 icons -->
-  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,shadcn,html,css" />
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,svelte,html,css" />
   <br />
 
   <!-- Row 3: 8 icons -->
