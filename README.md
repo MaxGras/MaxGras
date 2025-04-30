@@ -60,13 +60,7 @@
 
 ---
 
-### 🧠 Currently Exploring
 
-- 🧩 Supabase Auth & real-time features
-- 🖼️ Custom image generation workflows (OpenAI, APIs)
-- 🧱 Component systems with `cva`, Tailwind, dark/light themes
-
----
 
 <p align="center">
  <img src="./img_3.png" style="width: 100%;"  height='120'/>
