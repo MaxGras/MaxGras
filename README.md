@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/OlehDev/OlehDev/main/banner.png" height="150" />
 
-<h1 align="center">Hey, I'm <a href="https://github.com/OlehDev">Oleh</a> 👨‍💻</h1>
+<h1 align="center">Hey, I'm <a href="https://github.com/MaxGras">MaxGras (Maxim)</a> 👨‍💻</h1>
 
 <p align="center">
   Frontend-Focused Full-Stack Engineer | JavaScript & TypeScript Enthusiast
