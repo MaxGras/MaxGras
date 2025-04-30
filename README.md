@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/OlehDev/OlehDev/main/banner.png" height="150" />
+<img src="./img_3.png" style="width: 100%"  height='120'/>
 
 <h1 align="center">Hey, I'm <a href="https://github.com/MaxGras">MaxGras (Maxim)</a> 👨‍💻</h1>
 
@@ -6,11 +6,15 @@
   Frontend-Focused Full-Stack Engineer | JavaScript & TypeScript Enthusiast
 </p>
 
-<p align="center">
-  🧠 Architecting modern web apps with <strong>React, NestJS, TypeScript</strong><br/>
-  🚀 Bridging frontend elegance with backend performance<br/>
-  🎨 Building intuitive UIs, scalable APIs, and developer-friendly tools
-</p>
+<div align="center">
+
+|                                                                                          |                                                                              |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ![Brain Icon](https://img.icons8.com/ios/50/f3b5b8/brain.png)                            | Architecting modern web apps with <strong>React, NestJS, TypeScript</strong> |
+| ![Rocket Icon](https://img.icons8.com/ios/50/ff5733/rocket.png)                          | Bridging frontend elegance with backend performance                          |
+| ![Palette Icon](https://img.icons8.com/?size=50&id=sbXydpww9x7N&format=png&color=3336ff) | Building intuitive UIs, scalable APIs, and developer-friendly tools          |
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehDev&theme=tokyonight" alt="GitHub Streak" />
@@ -58,12 +62,12 @@
 
 ### 🧠 Currently Exploring
 
-- 🧩 Supabase Auth & real-time features  
-- 🖼️ Custom image generation workflows (OpenAI, APIs)  
-- 🧱 Component systems with `cva`, Tailwind, dark/light themes  
+- 🧩 Supabase Auth & real-time features
+- 🖼️ Custom image generation workflows (OpenAI, APIs)
+- 🧱 Component systems with `cva`, Tailwind, dark/light themes
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OlehDev/OlehDev/main/footer.png" height="150" />
+ <img src="./img_3.png" style="width: 100%;"  height='120'/>
 </p>
