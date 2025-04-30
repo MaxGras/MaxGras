@@ -1,15 +1,13 @@
 <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img1_.png" height="150" />
-<h1 align="center">Hi there, I'm <a href="https://github.com/SyntaxTears">Vitalii
-</a> 👋</h1>
-
+<h1 align="center">Hi there, I'm <a href="https://github.com/placeholder">Placeholder
 <p align="center">
   Full Stack Developer | Python & JavaScript
 </p>
 
-<p align="center">
-  🚀 Building scalable apps with <strong>React, Django, FastAPI, Node.js</strong><br/>
-  🌐 Crafting custom ERP, CRM, SaaS platforms & full-stack services<br/>
-  🎯 Passionate about clean code, smart automation & modern UX
+<p align="center"> 
+  🚀 Building fast, scalable full-stack apps with <strong>Next.js, Express & REST APIs</strong><br/> 
+  🌐 Delivering custom ERP, CRM, and SaaS platforms with SQL & NoSQL database integration<br/> 
+  🎯 Focused on clean architecture, automation, and seamless modern UX 
 </p>
 
 <p align="center">
