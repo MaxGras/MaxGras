@@ -1,69 +1,67 @@
-<img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img1_.png" height="150" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img1_.png" height="130" />
+</p>
 
-<h1 align="center">Hi there, I'm <a href="https://github.com/SyntaxTears">Vitalii</a> 👋</h1>
+<h1 align="center">Hey 👋 I'm <a href="https://github.com/SyntaxTears">Vitalii</a></h1>
+
+<p align="center"><strong>Full Stack Developer</strong> | Python & JavaScript Craftsman</p>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> | Python & JavaScript Enthusiast
+  🚀 Crafting scalable apps with <strong>React, Django, FastAPI, Node.js</strong><br/>
+  🌐 Focused on ERP/CRM systems, SaaS, and full-stack platforms<br/>
+  🎯 Obsessed with clean code, automation, and modern UI/UX
 </p>
 
 <p align="center">
-  🚀 Building scalable apps with <strong>React, Django, FastAPI, Node.js</strong><br/>
-  🌐 Specializing in custom ERP, CRM, SaaS platforms & full-stack systems<br/>
-  🎯 Passionate about clean code, automation & modern UX/UI
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxTears&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxTears&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🧩 Tech Stacks
+## 🧩 Tech Stacks I Work With
 
-<p align="center"><i>Key tech stacks I use to build powerful and scalable applications:</i></p>
-
-### 🔷 PDRF Stack  
+### 🔷 **PDRF Stack**
 <p align="center">
-  <code>PostgreSQL 💾</code> | <code>Django 🏗️</code> | <code>React ⚛️</code> | <code>FastAPI ⚡</code><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,django,react,fastapi" />
+  <code>PostgreSQL</code> | <code>Django</code> | <code>React</code> | <code>FastAPI</code><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,django,react,fastapi" height="30" />
 </p>
 
-### 🟢 FARM Stack  
+### 🟢 **FARM Stack**
 <p align="center">
-  <code>FastAPI ⚡</code> | <code>React ⚛️</code> | <code>MongoDB 🗄️</code><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,mongodb" />
+  <code>FastAPI</code> | <code>React</code> | <code>MongoDB</code><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,mongodb" height="30" />
 </p>
 
-### 🟡 MERN Stack  
+### 🟡 **MERN Stack**
 <p align="center">
-  <code>MongoDB 🗄️</code> | <code>Express.js 🚀</code> | <code>React ⚛️</code> | <code>Node.js 🖥️</code><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <code>MongoDB</code> | <code>Express</code> | <code>React</code> | <code>Node.js</code><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="30" />
 </p>
 
 ---
 
 ## 🛠️ My Toolbelt
 
-### 🎨 Frontend  
+### 🎨 **Frontend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,shadcn" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,shadcn" height="30" />
 </p>
 
-### 🧰 Backend  
+### 🧰 **Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express,nestjs" height="30" />
 </p>
 
-### 🗃️ Databases  
+### 🗃️ **Databases**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase" height="30" />
 </p>
 
-### ☁️ Cloud & DevOps  
+### ☁️ **Cloud & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,gitlab,bitbucket" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,gitlab,bitbucket" height="30" />
 </p>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img2_.png" height="150" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img2_.png" height="130" />
 </p>
