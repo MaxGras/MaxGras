@@ -29,24 +29,25 @@
 
 ### 🛠️ My Tech Toolbox
 
-<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,shadcn" />
-</p>
+  <!-- Row 1: 4 icons -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
+  <br />
 
-<p align="center"><b>Backend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,django,fastapi,flask,express" />
-</p>
+  <!-- Row 2: 6 icons -->
+  <img src="https://skillicons.dev/icons?i=redux,tailwind,materialui,shadcn,html,css" />
+  <br />
 
-<p align="center"><b>Databases & Auth</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,firebase" />
-</p>
+  <!-- Row 3: 8 icons -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,prisma,vite" />
+  <br />
 
-<p align="center"><b>Cloud & DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,aws,gcp,docker,github,gitlab" />
+  <!-- Row 4: 6 icons -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux,bash" />
+  <br />
+
+  <!-- Row 5: 4 icons -->
+  <img src="https://skillicons.dev/icons?i=jest,py,fastapi,postman" />
 </p>
 
 ---
