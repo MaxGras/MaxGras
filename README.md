@@ -1,52 +1,33 @@
-<img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img1_.png" height="150" />
-<h1 align="center">Hi there, I'm <a href="https://github.com/placeholder">Placeholder</a>
-<p align="center">
-  Full Stack Developer | Python & JavaScript
-</p>
+<img src="https://raw.githubusercontent.com/OlehDev/OlehDev/main/banner.png" height="150" />
 
-<p align="center"> 
-  🚀 Building fast, scalable full-stack apps with <strong>Next.js, Express & REST APIs</strong><br/> 
-  🌐 Delivering custom ERP, CRM, and SaaS platforms with SQL & NoSQL database integration<br/> 
-  🎯 Focused on clean architecture, automation, and seamless modern UX 
+<h1 align="center">Hey, I'm <a href="https://github.com/OlehDev">Oleh</a> 👨‍💻</h1>
+
+<p align="center">
+  Frontend-Focused Full-Stack Engineer | JavaScript & TypeScript Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyntaxTears&theme=radical" alt="GitHub Streak" />
+  🧠 Architecting modern web apps with <strong>React, NestJS, TypeScript</strong><br/>
+  🚀 Bridging frontend elegance with backend performance<br/>
+  🎨 Building intuitive UIs, scalable APIs, and developer-friendly tools
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehDev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🧩 Technology Stacks
-
-<p align="center"><i>My expertise in the following technology stacks is a cornerstone of my skill set:</i></p>
-
-<br/>
+### 🧰 Core Stack: RNTS (React – NestJS – TypeScript – Supabase)
 
 <p align="center">
-  <b>PDRF Stack</b><br/>
-  <code>PostgreSQL 💾</code>|<code>Django 🏗️</code>|<code>React ⚛️</code>|<code>FastAPI ⚡</code><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,django,react,fastapi" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>FARM Stack</b><br/>
-  <code>FastAPI ⚡</code>|<code>React ⚛️</code>|<code>MongoDB 🗄️</code><br/><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,mongodb" />
-</p>
-
-<br/>
-
-<p align="center">
-  <b>MERN Stack</b><br/>
-  <code>MongoDB 🗄️</code>|<code>Express.js 🚀</code>|<code>React ⚛️</code>|<code>Node.js 🖥️</code><br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  <code>React ⚛️</code> | <code>NestJS 🚀</code> | <code>TypeScript 🦕</code> | <code>Supabase 🧩</code><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nestjs,typescript,supabase" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Toolbox
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
@@ -55,18 +36,29 @@
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,django,fastapi,flask,express" />
 </p>
 
-<p align="center"><b>️Databases</b></p>
+<p align="center"><b>Databases & Auth</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,supabase,firebase" />
 </p>
 
-<p align="center"><b>️Cloud</b></p>
+<p align="center"><b>Cloud & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,gitlab,bitbucket" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws,gcp,docker,github,gitlab" />
 </p>
-<p align="right">
-  <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img2_.png" height="150" />
+
+---
+
+### 🧠 Currently Exploring
+
+- 🧩 Supabase Auth & real-time features  
+- 🖼️ Custom image generation workflows (OpenAI, APIs)  
+- 🧱 Component systems with `cva`, Tailwind, dark/light themes  
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OlehDev/OlehDev/main/footer.png" height="150" />
 </p>
