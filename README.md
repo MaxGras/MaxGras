@@ -42,12 +42,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres,prisma,vite" />
   <br />
 
-  <!-- Row 4: 6 icons -->
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux,bash" />
+  <!-- Row 4: 8 icons -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux,bash,docker,nginx" />
   <br />
 
-  <!-- Row 5: 4 icons -->
-  <img src="https://skillicons.dev/icons?i=jest,py,fastapi,postman" />
+  <!-- Row 5: 6 icons -->
+  <img src="https://skillicons.dev/icons?i=jest,py,fastapi,postman,threejs,graphql" />
+  <br />
+
+  <!-- Row 6: 4 icons -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" />
 </p>
 
 ---
