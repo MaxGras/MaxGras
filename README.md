@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/SyntaxTears/SyntaxTears/main/img1_.png" height="150" />
-<h1 align="center">Hi there, I'm <a href="https://github.com/placeholder">Placeholder
+<h1 align="center">Hi there, I'm <a href="https://github.com/placeholder">Placeholder</a>
 <p align="center">
   Full Stack Developer | Python & JavaScript
 </p>
