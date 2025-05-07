@@ -1,6 +1,14 @@
-<img src="./img_3.png" style="width: 100%"  height='90'/>
+<img src="./desing_header.png" style="width: 100%;"  height='120'/>
 
-<h1 align="center">Hey, I'm <a href="https://github.com/MaxGras">MaxGras (Maxim)</a> 👨‍💻</h1>
+<p align="center">
+  <img src="./design_1.webp" alt="Design" height="100" style="vertical-align: middle;transform: scaleX(-1)"/>
+  &nbsp;&nbsp;
+  <span style="font-size: 22px; vertical-align: middle;">
+    Hey, I'm <a href="https://github.com/MaxGras">SynapseOverload</a> 👨‍💻
+  </span>
+  &nbsp;&nbsp;
+  <img src="./design_1.webp" alt="Design" height="100" style="vertical-align: middle;"/>
+</p>
 
 <p align="center">
   Frontend-Focused Full-Stack Engineer | JavaScript & TypeScript Enthusiast
@@ -10,9 +18,9 @@
 
 |                                                                                          |                                                                              |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| ![Brain Icon](https://img.icons8.com/ios/50/f3b5b8/brain.png)                            | Architecting modern web apps with <strong>React, NestJS, TypeScript</strong> |
-| ![Rocket Icon](https://img.icons8.com/ios/50/ff5733/rocket.png)                          | Bridging frontend elegance with backend performance                          |
-| ![Palette Icon](https://img.icons8.com/?size=50&id=sbXydpww9x7N&format=png&color=3336ff) | Building intuitive UIs, scalable APIs, and developer-friendly tools          |
+| <img src='./BrainMeltProgram.webp' height='100'>                            | Architecting modern web apps with <strong>React, NestJS, TypeScript</strong> |
+|  <img src='./MadnessProgram.webp' height='100'>                          | Bridging frontend elegance with backend performance                          |
+| <img src='./GenericProgram.webp' height='100'> | Building intuitive UIs, scalable APIs, and developer-friendly tools          |
 
 </div>
 
@@ -59,8 +67,6 @@
 </p>
 
 ---
-
-
 
 <p align="center">
  <img src="./img_3.png" style="width: 100%;"  height='120'/>
