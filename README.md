@@ -1,13 +1,13 @@
 <img src="./desing_header.png" style="width: 100%;"  height='120'/>
 
 <p align="center">
-  <img src="./design_1.webp" alt="Design" height="100" style="vertical-align: middle;transform: scaleX(-1)"/>
+  <img src="./design_1.webp" alt="Design" height="100" />
   &nbsp;&nbsp;
   <span style="font-size: 22px; vertical-align: middle;">
     Hey, I'm <a href="https://github.com/MaxGras">SynapseOverload</a> 👨‍💻
   </span>
   &nbsp;&nbsp;
-  <img src="./design_1.webp" alt="Design" height="100" style="vertical-align: middle;"/>
+  <img src="./design_1.webp" alt="Design" height="100" =/>
 </p>
 
 <p align="center">
