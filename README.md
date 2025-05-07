@@ -30,11 +30,11 @@
 
 ---
 
-### 🧰 Core Stack: RNTS (React – NestJS – TypeScript – Supabase)
+### 🧰 Core Stack: NNTP (Nextjs – NestJS – TypeScript – PostgreSQL)
 
 <p align="center">
-  <code>React ⚛️</code> | <code>NestJS 🚀</code> | <code>TypeScript 🦕</code> | <code>Supabase 🧩</code><br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nestjs,typescript,supabase" />
+  <code>NextJS ⚛️</code> | <code>NestJS 🚀</code> | <code>TypeScript 🦕</code> | <code>PostgreSQL 🧩</code><br/><br/>
+  <img src="https://skillicons.dev/icons?i=next,nestjs,typescript,postgres" />
 </p>
 
 ---
@@ -69,5 +69,6 @@
 ---
 
 <p align="center">
- <img src="./img_3.png" style="width: 100%;"  height='120'/>
+ <img src="./desing_header.png" style="width: 100%;"  height='120'/>
+
 </p>
