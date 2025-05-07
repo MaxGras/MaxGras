@@ -63,7 +63,7 @@
   <br />
 
   <!-- Row 6: 4 icons -->
-  <img src="https://skillicons.dev/icons?i=nest,remix,vscode,bun,js,ts,npm" />
+  <img src="https://skillicons.dev/icons?i=nest,remix,vscode,bun,npm" />
 </p>
 
 ---
