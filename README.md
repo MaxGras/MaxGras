@@ -1,13 +1,13 @@
 <img src="./desing_header.png" style="width: 100%;"  height='120'/>
 
 <p align="center">
-  <img src="./design_1.webp" alt="Design" height="100" />
+  <img style="vertical-align: middle;" src="./design-left.png" alt="Design" height="40" />
   &nbsp;&nbsp;
   <span style="font-size: 22px; vertical-align: middle;">
     Hey, I'm <a href="https://github.com/MaxGras">SynapseOverload</a> 👨‍💻
   </span>
   &nbsp;&nbsp;
-  <img src="./design_1.webp" alt="Design" height="100" =/>
+  <img style="vertical-align: middle;" src="./design-right.png" alt="Design" height="40" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-|                                                                                          |                                                                              |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| <img src='./BrainMeltProgram.webp' height='100'>                            | Architecting modern web apps with <strong>React, NestJS, TypeScript</strong> |
-|  <img src='./MadnessProgram.webp' height='100'>                          | Bridging frontend elegance with backend performance                          |
-| <img src='./GenericProgram.webp' height='100'> | Building intuitive UIs, scalable APIs, and developer-friendly tools          |
+|                                                  |                                                                              |
+| ------------------------------------------------ | ---------------------------------------------------------------------------- |
+| <img src='./BrainMeltProgram.webp' height='100'> | Architecting modern web apps with <strong>React, NestJS, TypeScript</strong> |
+| <img src='./MadnessProgram.webp' height='100'>   | Bridging frontend elegance with backend performance                          |
+| <img src='./GenericProgram.webp' height='100'>   | Building intuitive UIs, scalable APIs, and developer-friendly tools          |
 
 </div>
 
@@ -63,7 +63,7 @@
   <br />
 
   <!-- Row 6: 4 icons -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=nest,remix,vscode,bun,js,ts,npm" />
 </p>
 
 ---
