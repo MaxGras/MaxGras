@@ -68,6 +68,7 @@
 </p>
 
 ---
+<img src="http://localhost:3000/api/scrap" alt="test" />
 
 <p align="center">
  <img src="./desing_footer.png" style="width: 100%;"  height='120'/>
