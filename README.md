@@ -24,9 +24,9 @@
 
 </div>
 
-<p align="center">
-  <img src="http://localhost:3000/api/scrap" alt="GitHub Streak" />
-</p>
+
+
+<img src="http://localhost:3000/api/scrap" alt="test" />
 
 
 ---
