@@ -25,8 +25,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OlehDev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="http://localhost:3000/api/scrap" alt="GitHub Streak" />
 </p>
+
 
 ---
 
